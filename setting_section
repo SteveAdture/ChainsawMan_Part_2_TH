@@ -12,6 +12,14 @@
         "mangaplus.shueisha": "/proxy/api/imgur/chapter/BP9UBoK/"
       },
       "last_updated": "1682065247"
+    },
+    "2": {
+      "title": "2 ตัว",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/0RJxiYh/"
+      },
+      "last_updated": "1682065247"
     }
   }
 }
