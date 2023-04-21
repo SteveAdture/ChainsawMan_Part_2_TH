@@ -36,6 +36,14 @@
         "mangaplus.shueisha": "/proxy/api/imgur/chapter/SKKXFLL/"
       },
       "last_updated": "1682065247"
+    },
+    "102": {
+      "title": "ช่วยน้องแมว",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/hbPX3Tl/"
+      },
+      "last_updated": "1682065247"
     }
   }
 }
