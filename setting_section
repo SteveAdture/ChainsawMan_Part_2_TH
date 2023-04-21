@@ -1,0 +1,17 @@
+{
+  "title": "Chainsaw Man Part 2 ไทย",
+  "description": "อ่านย้อนหลัง แปลไทยจาก shueisha",
+  "artist": "Tatsuki Fujimoto",
+  "author": "Tatsuki Fujimoto",
+  "cover": "https://mangaplus.shueisha.co.jp/drm/title/100037/title_thumbnail_portrait_list/233343.jpg?key=424c75823df5faa60cb19cfe881c3cbd&duration=86400",
+  "chapters": {
+    "1": {
+      "title": "นกและสงคราม",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/BP9UBoK/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
