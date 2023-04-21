@@ -5,7 +5,7 @@
   "author": "Tatsuki Fujimoto",
   "cover": "https://mangaplus.shueisha.co.jp/drm/title/100037/title_thumbnail_portrait_list/233343.jpg?key=424c75823df5faa60cb19cfe881c3cbd&duration=86400",
   "chapters": {
-    "1": {
+    "98": {
       "title": "นกและสงคราม",
       "volume": "1",
       "groups": {
@@ -13,11 +13,27 @@
       },
       "last_updated": "1682065247"
     },
-    "2": {
+    "99": {
       "title": "2 ตัว",
       "volume": "1",
       "groups": {
         "mangaplus.shueisha": "/proxy/api/imgur/chapter/0RJxiYh/"
+      },
+      "last_updated": "1682065247"
+    },
+    "100": {
+      "title": "วิธีเดินเท้าเปล่า",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/eGTytjB/"
+      },
+      "last_updated": "1682065247"
+    },
+    "101": {
+      "title": "นักล่าปีศาจหลังเลิกเรียน",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/SKKXFLL/"
       },
       "last_updated": "1682065247"
     }
