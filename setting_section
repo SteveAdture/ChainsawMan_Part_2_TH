@@ -9,7 +9,7 @@
       "title": "นกและสงคราม",
       "volume": "1",
       "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/BP9UBoK/"
+        "เล่ม 12": "/proxy/api/imgur/chapter/BP9UBoK/"
       },
       "last_updated": "1682065247"
     },
@@ -17,7 +17,7 @@
       "title": "2 ตัว",
       "volume": "1",
       "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/0RJxiYh/"
+        "เล่ม 12": "/proxy/api/imgur/chapter/0RJxiYh/"
       },
       "last_updated": "1682065247"
     },
@@ -25,7 +25,7 @@
       "title": "วิธีเดินเท้าเปล่า",
       "volume": "1",
       "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/eGTytjB/"
+        "เล่ม 12": "/proxy/api/imgur/chapter/P47QpuN/"
       },
       "last_updated": "1682065247"
     },
@@ -33,7 +33,7 @@
       "title": "นักล่าปีศาจหลังเลิกเรียน",
       "volume": "1",
       "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/SKKXFLL/"
+        "เล่ม 12": "/proxy/api/imgur/chapter/SKKXFLL/"
       },
       "last_updated": "1682065247"
     },
@@ -41,7 +41,15 @@
       "title": "ช่วยน้องแมว",
       "volume": "1",
       "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/Yu0kAoY/"
+        "เล่ม 12": "/proxy/api/imgur/chapter/Yu0kAoY/"
+      },
+      "last_updated": "1682065247"
+    },
+    "103": {
+      "title": "ฝันของเด็นจิ",
+      "volume": "1",
+      "groups": {
+        "เล่ม 12": "/proxy/api/imgur/chapter/dC6gejR/"
       },
       "last_updated": "1682065247"
     }
