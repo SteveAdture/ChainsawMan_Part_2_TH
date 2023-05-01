@@ -132,6 +132,22 @@
         "เล่ม 14": "/proxy/api/imgur/chapter/2nqXYVx/"
       },
       "last_updated": "1682065247"
+    },
+    "114": {
+      "title": "พิพิธภัณฑ์สัตว์น้ำที่ไม่มีสิ้นสุด",
+      "volume": "1",
+      "groups": {
+        "เล่ม 14": "/proxy/api/imgur/chapter/GqE8Uue/"
+      },
+      "last_updated": "1682065247"
+    },
+    "115": {
+      "title": "นักเรียนม.ปลายสมัยนี้",
+      "volume": "1",
+      "groups": {
+        "เล่ม 14": "/proxy/api/imgur/chapter/o4EwJ0b/"
+      },
+      "last_updated": "1682065247"
     }
   }
 }
