@@ -180,6 +180,30 @@
         "เล่ม 14": "/proxy/api/imgur/chapter/TLhFFSt/"
       },
       "last_updated": "1682065247"
+    },
+    "120": {
+      "title": "สามเหลี่ยมสามมุม",
+      "volume": "1",
+      "groups": {
+        "เล่ม 14": "/proxy/api/imgur/chapter/K4hBPM4/"
+      },
+      "last_updated": "1682065247"
+    },
+    "121": {
+      "title": "ทฤษฎีความสุข",
+      "volume": "1",
+      "groups": {
+        "เล่ม 14": "/proxy/api/imgur/chapter/eZ8GQWA/"
+      },
+      "last_updated": "1682065247"
+    },
+    "122": {
+      "title": "คำทำนายใหญ่",
+      "volume": "1",
+      "groups": {
+        "เล่ม 14": "/proxy/api/imgur/chapter/kmWYr0y/"
+      },
+      "last_updated": "1682065247"
     }
   }
 }
