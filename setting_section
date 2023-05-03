@@ -228,6 +228,30 @@
         "mangaplus.shueisha": "/proxy/api/imgur/chapter/x8A4ysy/"
       },
       "last_updated": "1682065247"
+    },
+    "126": {
+      "title": "ศึกเละตุ้มเป๊ะ",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/59i3j1M/"
+      },
+      "last_updated": "1681225200"
+    },
+    "127": {
+      "title": "เซฟเดอะอาซะ",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/6yJlP7g/"
+      },
+      "last_updated": "1681830000"
+    },
+    "128": {
+      "title": "เมนดิช",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/oh6xSHS/"
+      },
+      "last_updated": "1682434800"
     }
   }
 }
