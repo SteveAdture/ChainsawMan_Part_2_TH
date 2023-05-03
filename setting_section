@@ -231,13 +231,3 @@
     }
   }
 }
-
-//,
-    "<chapter>": {
-      "title": "<name>",
-      "volume": "1",
-      "groups": {
-        "mangaplus.shueisha": "/proxy/api/imgur/chapter/<url>/"
-      },
-      "last_updated": "1682065247"
-    }
