@@ -204,6 +204,40 @@
         "เล่ม 14": "/proxy/api/imgur/chapter/kmWYr0y/"
       },
       "last_updated": "1682065247"
+    },
+    "123": {
+      "title": "ออเดิร์ฟ",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/GshxzqI/"
+      },
+      "last_updated": "1682065247"
+    },
+    "124": {
+      "title": "ซุป",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/azgwJ5d/"
+      },
+      "last_updated": "1682065247"
+    },
+    "125": {
+      "title": "ความผิดฐานขโมยแอปเปิ้ล",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/x8A4ysy/"
+      },
+      "last_updated": "1682065247"
     }
   }
 }
+
+//,
+    "<chapter>": {
+      "title": "<name>",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/<url>/"
+      },
+      "last_updated": "1682065247"
+    }
