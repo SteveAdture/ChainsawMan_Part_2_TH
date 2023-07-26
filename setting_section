@@ -252,6 +252,78 @@
         "mangaplus.shueisha": "/proxy/api/imgur/chapter/oh6xSHS/"
       },
       "last_updated": "1682434800"
+    },
+    "129": {
+      "title": "ช่วยด้วย เชนซอว์แมน",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/BkRzvre/"
+      },
+      "last_updated": "1683644400"
+    },
+    "130": {
+      "title": "ตึกที่ถูกตัด",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/x4Kpn9D/"
+      },
+      "last_updated": "1684854000"
+    },
+    "131": {
+      "title": "รสขี้",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/FeP5Yzd/"
+      },
+      "last_updated": "1685458800"
+    },
+    "132": {
+      "title": "คุ้มครอง",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/rqcONCk/"
+      },
+      "last_updated": "1686668400"
+    },
+    "133": {
+      "title": "เดินขบวนต่อต้านเชนซอว์แมน",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/kmDWD4Y/"
+      },
+      "last_updated": "1687273200"
+    },
+    "134": {
+      "title": "ความสุขในแบบธรรมดา",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/GRBUpZN/"
+      },
+      "last_updated": "1687878000"
+    },
+    "135": {
+      "title": "Sentimental Drive (แรงขับเคลื่อนทางอารมณ์)",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/Ia7UyV9/"
+      },
+      "last_updated": "1689087600"
+    },
+    "136": {
+      "title": "วันในแต่ละวันที่แสนปกติ",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/b7DS4Ge/"
+      },
+      "last_updated": "1689692400"
+    },
+    "137": {
+      "title": "จุ๊บจุ๊บเลิฟลี่มุเนียะมุเนียะมุรามุรา",
+      "volume": "1",
+      "groups": {
+        "mangaplus.shueisha": "/proxy/api/imgur/chapter/UCNHZPz/"
+      },
+      "last_updated": "1690297200"
     }
   }
 }
